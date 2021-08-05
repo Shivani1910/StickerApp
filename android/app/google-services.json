@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "860141301999",
+    "project_id": "stickergifapp",
+    "storage_bucket": "stickergifapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860141301999:android:9733f4f69f3f9e9c33eb1a",
+        "android_client_info": {
+          "package_name": "com.stickerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "860141301999-s9vb1e6acd53c7r009h54gpnt92bo9ak.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnQHXZrTiXqzYOudKhl5CT3AL-D6Dwrx4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "860141301999-s9vb1e6acd53c7r009h54gpnt92bo9ak.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
